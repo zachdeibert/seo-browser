@@ -1,0 +1,22 @@
+body {
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    margin: 8px;
+}
+h1 {
+    width: 100vw;
+    text-align: center;
+}
+label {
+    font-size: 0.7em;
+    color: #3F3F3F;
+    display: block;
+}
+input {
+    width: calc(100vw - 16px);
+    box-sizing: border-box;
+}
