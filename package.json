@@ -1,0 +1,15 @@
+{
+    "name": "seo-browser",
+    "version": "1.0.0",
+    "description": "A browser that allows you to see your site how a search engine sees it",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "repository": "https://github.com/zachdeibert/seo-browser",
+    "author": "Zach Deibert",
+    "license": "MIT",
+    "devDependencies": {
+        "electron": "^4.0.3"
+    }
+}
